@@ -1,0 +1,11 @@
+form{
+    width:50%;
+    margin: 5% auto;
+    border:black 5px solid;
+    box-shadow: darkslategray;
+    -webkit-box-sizing: border-box;
+}
+
+label{
+
+}
